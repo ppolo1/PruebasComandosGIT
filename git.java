@@ -5,7 +5,7 @@ public class git {
 		// TODO Auto-generated method stub
 			System.out.print("Introduce Opción");
 			int i=0;
-			
+			float j=0; 
 	}
 
 }
